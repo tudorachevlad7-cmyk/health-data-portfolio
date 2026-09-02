@@ -1,22 +1,43 @@
 # Health Data Portfolio
 
-This repository contains beginner-to-intermediate health data projects using Python, CSV files, SQLite and SQL.
+This repository contains health data analysis projects built with Python, CSV files, SQLite and SQL.
+
+The projects use synthetic healthcare data and demonstrate patient-level reporting, data cleaning, risk scoring, CSV processing and database creation.
 
 ## Projects
 
-### 1. UK Clinic Reporting
-Reads patient, appointment, lab result and prescription CSV files, calculates patient-level metrics, generates a CSV report, and stores the data in SQLite.
+### UK Clinic Reporting
 
-### 2. Hospital Admissions Reporting
-Processes hospital admissions, diagnoses, lab results and medications, calculates risk scores, creates a patient report, and saves the results to CSV and SQLite.
+A patient-level reporting project using clinic data.
 
-## Skills Practised
+The project reads multiple CSV files, processes appointments, lab results and prescriptions, calculates patient-level metrics, generates a final CSV report and stores the data in a SQLite database.
 
-- Python functions
+Skills used:
+
+- Python
 - CSV reading and writing
 - Dictionaries and lists
-- Data cleaning and type conversion
+- Functions
+- Data type conversion
+- SQLite
+- SQL-ready reporting
+
+### Hospital Admissions Reporting
+
+A larger hospital admissions project using patients, admissions, diagnoses, lab results and medications.
+
+The project calculates admission statistics, abnormal lab result counts, diagnosis severity, medication counts, polypharmacy status and patient risk categories.
+
+Skills used:
+
+- Python
+- CSV processing
+- Dictionary-based aggregation
+- Patient-level metrics
+- Risk scoring
 - SQLite database creation
-- SQL tables
-- Patient-level reporting
-- Basic health data analysis
+- SQL analysis preparation
+
+## Notes
+
+All data in this repository is synthetic and created for learning and portfolio purposes.
