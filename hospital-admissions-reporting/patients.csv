@@ -1,0 +1,21 @@
+patient_id,first_name,last_name,age,sex,city,nhs_region
+1,Arthur,Smith,72,M,London,London
+2,Olivia,Jones,34,F,Manchester,North West
+3,George,Taylor,81,M,Birmingham,Midlands
+4,Amelia,Brown,67,F,Leeds,Yorkshire
+5,Harry,Wilson,45,M,Bristol,South West
+6,Isla,Davies,29,F,Liverpool,North West
+7,Jack,Evans,58,M,Cardiff,Wales
+8,Emily,Thomas,76,F,Newcastle,North East
+9,Oscar,Roberts,62,M,Nottingham,Midlands
+10,Sophia,Walker,39,F,Oxford,South East
+11,Charlie,White,83,M,Cambridge,East of England
+12,Grace,Harris,55,F,Sheffield,Yorkshire
+13,Leo,Martin,70,M,London,London
+14,Lily,Thompson,26,F,Manchester,North West
+15,Thomas,Clark,49,M,Birmingham,Midlands
+16,Freya,Lewis,73,F,Leeds,Yorkshire
+17,Henry,Robinson,64,M,Bristol,South West
+18,Mia,Wood,31,F,Liverpool,North West
+19,Alfie,Hall,78,M,Cardiff,Wales
+20,Charlotte,Allen,52,F,Newcastle,North East

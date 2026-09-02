@@ -1,0 +1,29 @@
+admission_id,patient_id,admission_date,ward,length_of_stay,discharged
+1001,1,2024-01-12,Cardiology,6,yes
+1002,1,2024-05-03,Acute Medicine,4,no
+1003,2,2024-02-10,General Medicine,2,yes
+1004,3,2024-01-25,Cardiology,10,yes
+1005,3,2024-06-11,Respiratory,7,no
+1006,4,2024-03-08,Orthopaedics,5,yes
+1007,4,2024-07-02,Acute Medicine,3,no
+1008,5,2024-04-14,Respiratory,4,yes
+1009,6,2024-05-18,ENT,1,yes
+1010,7,2024-01-30,General Medicine,3,yes
+1011,8,2024-02-21,Cardiology,8,yes
+1012,8,2024-06-19,Acute Medicine,5,no
+1013,9,2024-03-17,Respiratory,4,yes
+1014,10,2024-04-06,Dermatology,1,yes
+1015,11,2024-01-09,Cardiology,12,yes
+1016,11,2024-07-14,Acute Medicine,6,no
+1017,12,2024-05-01,General Medicine,3,yes
+1018,13,2024-02-02,Cardiology,7,yes
+1019,13,2024-08-10,Respiratory,5,no
+1020,14,2024-03-12,ENT,1,yes
+1021,15,2024-04-22,Orthopaedics,4,yes
+1022,16,2024-01-18,Cardiology,9,yes
+1023,16,2024-06-24,General Medicine,4,no
+1024,17,2024-05-29,Respiratory,3,yes
+1025,18,2024-07-07,Dermatology,1,yes
+1026,19,2024-02-16,Cardiology,11,yes
+1027,19,2024-08-01,Acute Medicine,5,no
+1028,20,2024-06-05,General Medicine,2,yes

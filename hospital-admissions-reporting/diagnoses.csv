@@ -1,0 +1,29 @@
+diagnosis_id,patient_id,diagnosis,diagnosis_group,severity
+2001,1,Hypertension,Cardiovascular,moderate
+2002,1,Heart failure,Cardiovascular,high
+2003,2,Asthma,Respiratory,low
+2004,3,Type 2 diabetes,Metabolic,moderate
+2005,3,Ischaemic heart disease,Cardiovascular,high
+2006,4,Osteoarthritis,Musculoskeletal,moderate
+2007,4,Falls risk,Geriatric,high
+2008,5,COPD,Respiratory,moderate
+2009,6,Tonsillitis,ENT,low
+2010,7,Anaemia,Haematology,moderate
+2011,8,Atrial fibrillation,Cardiovascular,high
+2012,8,Hypertension,Cardiovascular,moderate
+2013,9,COPD,Respiratory,moderate
+2014,10,Eczema,Dermatology,low
+2015,11,Heart failure,Cardiovascular,high
+2016,11,Chronic kidney disease,Renal,high
+2017,12,Anaemia,Haematology,moderate
+2018,13,Type 2 diabetes,Metabolic,moderate
+2019,13,COPD,Respiratory,moderate
+2020,14,Sinusitis,ENT,low
+2021,15,Fracture,Musculoskeletal,moderate
+2022,16,Hypertension,Cardiovascular,moderate
+2023,16,Heart failure,Cardiovascular,high
+2024,17,COPD,Respiratory,moderate
+2025,18,Psoriasis,Dermatology,low
+2026,19,Atrial fibrillation,Cardiovascular,high
+2027,19,Falls risk,Geriatric,high
+2028,20,Anaemia,Haematology,moderate

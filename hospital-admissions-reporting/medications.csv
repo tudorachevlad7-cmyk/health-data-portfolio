@@ -1,0 +1,47 @@
+medication_id,patient_id,medication,category,quantity
+4001,1,Amlodipine,Antihypertensive,28
+4002,1,Furosemide,Diuretic,28
+4003,1,Atorvastatin,Lipid lowering,28
+4004,1,Bisoprolol,Beta blocker,28
+4005,1,Ramipril,ACE inhibitor,28
+4006,2,Salbutamol,Respiratory,1
+4007,3,Metformin,Diabetes,56
+4008,3,Atorvastatin,Lipid lowering,28
+4009,3,Aspirin,Antiplatelet,28
+4010,4,Paracetamol,Analgesic,32
+4011,4,Calcium carbonate,Supplement,28
+4012,5,Salbutamol,Respiratory,1
+4013,5,Tiotropium,Respiratory,30
+4014,6,Amoxicillin,Antibiotic,21
+4015,7,Ferrous sulphate,Haematology,28
+4016,8,Amlodipine,Antihypertensive,28
+4017,8,Bisoprolol,Beta blocker,28
+4018,8,Warfarin,Anticoagulant,28
+4019,8,Atorvastatin,Lipid lowering,28
+4020,9,Salbutamol,Respiratory,1
+4021,9,Prednisolone,Steroid,5
+4022,10,Hydrocortisone,Dermatology,1
+4023,11,Furosemide,Diuretic,28
+4024,11,Ramipril,ACE inhibitor,28
+4025,11,Bisoprolol,Beta blocker,28
+4026,11,Amlodipine,Antihypertensive,28
+4027,11,Atorvastatin,Lipid lowering,28
+4028,12,Ferrous sulphate,Haematology,28
+4029,13,Metformin,Diabetes,56
+4030,13,Salbutamol,Respiratory,1
+4031,14,Paracetamol,Analgesic,16
+4032,15,Ibuprofen,Analgesic,24
+4033,16,Ramipril,ACE inhibitor,28
+4034,16,Amlodipine,Antihypertensive,28
+4035,16,Furosemide,Diuretic,28
+4036,16,Bisoprolol,Beta blocker,28
+4037,16,Atorvastatin,Lipid lowering,28
+4038,17,Salbutamol,Respiratory,1
+4039,17,Tiotropium,Respiratory,30
+4040,18,Hydrocortisone,Dermatology,1
+4041,19,Warfarin,Anticoagulant,28
+4042,19,Bisoprolol,Beta blocker,28
+4043,19,Amlodipine,Antihypertensive,28
+4044,19,Atorvastatin,Lipid lowering,28
+4045,19,Ramipril,ACE inhibitor,28
+4046,20,Ferrous sulphate,Haematology,28
